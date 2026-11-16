@@ -1,0 +1,93 @@
+# Parte 1 Episodio 10 - Cena na igreja
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Dagnar + igreja
+
+# Parte 1 Episodio 10 - Cena no corredor do castelo
+# Formato: personagem1 personagem2 sinal ambiente
+Dagmar Benta 0 castelo
+
+# Parte 1 Episodio 10 - Cena no quarto do Zog
+# Formato: personagem1 personagem2 sinal ambiente
+Dagnar Zog + quartoDoZog
+
+# Parte 1 Episodio 10 - Cena na cozinha
+# Formato: personagem1 personagem2 sinal ambiente
+Bruxerio Ovaldo 0 cozinha
+
+# Parte 1 Episodio 10 - Cena no salao de festas
+# Formato: personagem1 personagem2 sinal ambiente
+Dagmar Oona - salaoDeFestas
+
+# Parte 1 Episodio 10 - Cena no cemitério
+# Formato: personagem1 personagem2 sinal ambiente
+Tess Luci 0 cemitério
+Oona Dagmar - cemitério
+Oona Bean - cemitério
+
+# Parte 1 Episodio 10 - Cena na sala de reuniao
+# Formato: personagem1 personagem2 sinal ambiente
+Bruxerio Zog 0 salaDeReuniao
+Oona Zog - salaDeReuniao
+Oona Bruxerio - salaDeReuniao
+
+# Parte 1 Episodio 10 - Cena na sala da bola de crista
+# Formato: personagem1 personagem2 sinal ambiente
+Zog Dagmar 0 salaDaBolaDeCristal
+Bean Dagmar + salaDaBolaDeCristal
+
+# Parte 1 Episodio 10 - Cena no jardim
+# Formato: personagem1 personagem2 sinal ambiente
+Zog Dagmar 0 jardim
+Luci Zog + jardim
+
+# Parte 1 Episodio 10 - Cena ao por do sol
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Dagmar + porDoSol
+
+# Parte 1 Episodio 10 - Cena na cozinha
+# Formato: personagem1 personagem2 sinal ambiente
+Oona Ovaldo + cozinha
+
+# Parte 1 Episodio 10 - Cena na taverna
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Dagmar 0 taverna
+
+# Parte 1 Episodio 10 - Cena na sala de reuniao
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Ovaldo 0 salaDeReuniao
+Ovaldo Bean 0 salaDeReuniao
+Zog Dagmar 0 salaDeReuniao
+
+# Parte 1 Episodio 10 - Cena no quarto do Derek
+# Formato: personagem1 personagem2 sinal ambiente
+Derek Zog 0 quartoDoDerek
+
+# Parte 1 Episodio 10 - Cena na sala da bola de crista
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Dagmar + salaDaBolaDeCristal
+
+# Parte 1 Episodio 10 - Cena na sala secreta
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Dagmar + salaSecreta
+
+# Parte 1 Episodio 10 - Cena nos corredores do castelo
+# Formato: personagem1 personagem2 sinal ambiente
+Ovaldo Zog 0 castelo
+Luci Ovaldo - castelo
+
+# Parte 1 Episodio 10 - Cena na sala da bola de crista
+# Formato: personagem1 personagem2 sinal ambiente
+Luci Zog + salaDaBolaDeCristal
+
+# Parte 1 Episodio 10 - Cena na sala secreta
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Dagmar + salaSecreta
+Zog Dagmar - salaSecreta
+
+# Parte 1 Episodio 10 - Cena no navio
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Dagmar 0 navio
+
+
+
+
