@@ -1,0 +1,82 @@
+# Parte 1 Episodio 2 - Cena no retiro do mestre dos desejos
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Luci + RetiroMestreDosDesejos
+Bean Elfo + RetiroMestreDosDesejos
+
+#Parte 1 Episodio 2 - Cena na sala do trono
+# Formato: personagem1 personagem2 sinal ambiente
+Luci Zog - Castelo
+Elfo Zog 0 Castelo
+Bean Zog - Castelo
+
+#Parte 1 Episodio 2 - Cena na banheira
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Benta 0 Banheiro
+
+#Parte 1 Episodio 2 - Cena no laboratório do Bruxélio
+# Formato: personagem1 personagem2 sinal ambiente
+Bruxélio Zog + Laboratorio
+
+#Parte 1 Episodio 2 - Cena no quarto da Bean
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Luci 0 QuartoDaBean
+Bean Elfo 0 QuartoDaBean
+
+# Parte 1 Episodio 2 - Cena na aldeia
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Elfo 0 Aldeia
+
+#Parte 1 Episodio 2 - Cena no laboratório do Bruxélio
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Bruxélio - Laboratorio
+Bruxélio Zog 0 Laboratório
+
+#Parte 1 Episodio 2 - Cena nos alredores da aldeia
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Merquimio 0 Aldeia
+
+#Parte 1 Episodio 2 - Cena no laboratório do Bruxélio
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Zog - Laboratório
+Bruxélio Elfo - Laboratorio
+Bean Elfo + laboratório
+
+#Parte 1 Episodio 2 - Cena no alto mar de dia
+# De 14:15 a 15:30
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Merquimio 0 navio
+
+#Parte 1 Episodio 2 - Cena no alto mar de noite
+# De 15:31 a 18:30
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Elfo 0 navio
+Elfo Luci - navio
+Bean Merquimio 0 navio
+
+#Parte 1 Episodio 2 - Cena no alto mar de noite
+# De 18:31 a 21:00
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Luci - navio
+Bean Elfo - navio
+Bean Merquimio + navio
+Luci Merquimio + navio
+Elfo Merquimio + navio
+
+#Parte 1 Episodio 2 - Cena na sala do trono mais quarto da Bean
+# Formato: personagem1 personagem2 sinal ambiente
+Merquimio Zog - castelo
+Elfo Bean + quartoDaBean
+
+#Parte 1 Episodio 2 - Cena no laboratório do Bruxélio
+# Formato: personagem1 personagem2 sinal ambiente
+Merquimio Elfo - laboratório
+
+#Parte 1 Episodio 2 - Cena na Igreja
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Zog + igreja
+Zog lorenjo - igreja
+Bean Luci + igreja
+Bean Elfo + igreja
+
+
+

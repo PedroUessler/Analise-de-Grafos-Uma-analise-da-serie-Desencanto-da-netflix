@@ -1,0 +1,71 @@
+
+# Parte 1 Episodio 1 - Cena na parte de fora da Taverna
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Ovaldo 0 Aldeia
+
+# Parte 1 Episodio 1 - Cena no Castelo
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Zog - SalaDoTrono
+Bean Oona 0 SalaDoTrono
+Bean Benta 0 QuartoDaBean
+
+# Parte 1 Episodio 1 - Cena na Floresta dos Elfos
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Beijoca + FlorestaDosElfo
+
+# Parte 1 Episodio 1 - Cena na área de festa
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Luci - AreaDeFestas
+
+# Parte 1 Episodio 1 - 2° Cena na Floresta dos Elfos
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Beijoca + FlorestaDosElfo
+Elfo ReiElfo - FlorestaDosElfo
+
+# Parte 1 Episodio 1 - 2° Cena na área de festa
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Luci - AreaDeFestas
+
+# Parte 1 Episodio 1 - 3° Cena na Floresta dos Elfos
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Beijoca + FlorestaDosElfo
+
+# Parte 1 Episodio 1 - Cena no corredor do castelo.
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Oona 0 CorredorDoCastelo
+
+# Parte 1 Episodio 1 - Cena em uma fazenda
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Fazendeiro - Fazenda
+
+# Parte 1 Episodio 1 - Cena na igreja
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Luci + Igreja
+Bean Zog - Igreja
+Bean CarlosAlberto - Igreja
+Zog Lorenjo + Igreja
+Bean Merquimio 0 Igreja
+Zog Bruxerio 0 Igreja
+Zog Ovaldo 0 Igreja
+Zog Merquimio + Igreja
+
+
+# Parte 1 Episodio 1 - Cena geral de perseguição na aldeia
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Elfo + Aldeia
+Bean Luci + Aldeia
+Elfo Luci + Aldeia
+
+# Parte 1 Episodio 1 - Cena na floresta
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Fada + Floresta
+Bean Elfo 0 Floresta
+Bean Luci 0 Floresta
+Elfo Luci 0 Floresta
+
+# Parte 1 Episodio 1 - Cena no retiro do mestre dos desejos
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Elfo + RetiroMestreDosDesejos
+Bean Merquimio 0 RetiroMestreDosDesejos
+Bean Luci 0 RetiroMestreDosDesejos
+

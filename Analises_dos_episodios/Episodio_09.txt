@@ -1,0 +1,66 @@
+# Parte 1 Episodio 09 - cena quarto do Zog
+# Formato: personagem1 personagem2 sinal ambiente
+Zog Oona + quartoDoZog
+
+# Parte 1 Episodio 09 - cena noo céu
+# Formato: personagem1 personagem2 sinal ambiente
+Luci Bean 0 céu
+Bean Bruxerio 0 céu
+
+# Parte 1 Episodio 09 - cena na entrada do Castelo
+# Formato: personagem1 personagem2 sinal ambiente
+Bruxerio Zog + entradaDoCastelo
+Derek Zog - entradaDoCastelo
+
+# Parte 1 Episodio 09 - cena no laboratório do Bruxerio
+# Formato: personagem1 personagem2 sinal ambiente
+Ovaldo Bean 0 laboratório
+Elfo Zog - laboratório
+Bruxerio Bean 0 laboratório
+
+# Parte 1 Episodio 09 - cena na entrada do Castelo
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Bean 0 entradaDoCastelo
+
+# Parte 1 Episodio 09 - cena na sala de reunião
+# Formato: personagem1 personagem2 sinal ambiente
+Zog Bean - salaDeReuniao
+
+# Parte 1 Episodio 09 - cena na cozinha
+# Formato: personagem1 personagem2 sinal ambiente
+Ovaldo Bean + cozinha
+
+# Parte 1 Episodio 09 - cena na floresta
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Luci + floresta
+Elfo Bean + floresta
+
+# Parte 1 Episodio 09 - cena na floresta dos elfos antes do ataque
+# De 14:00 a 16:50
+# Formato: personagem1 personagem2 sinal ambiente
+ReiElfo Elfo - florestaDosElfos
+ReiElfo Bean + florestaDosElfos
+Beijoca Elfo 0 florestaDosElfos
+PapaiElfo Elfo + florestaDosElfos
+
+# Parte 1 Episodio 09 - cena na floresta dos elfos após o inicio do ataque
+# De 16:51 a 21:09
+# Formato: personagem1 personagem2 sinal ambiente
+Bean ReiElfo + florestaDosElfos
+Bean Beijoca + florestaDosElfos
+Elfo ReiElfo + florestaDosElfos
+Elfo Beijoca + florestaDosElfos
+Luci Rei Elfo + florestaDosElfos
+Luci Beijoca + florestaDosElfos
+Bean Elfo + floresta
+
+# Parte 1 Episodio 09 - cena na floresta
+# Formato: personagem1 personagem2 sinal ambiente
+Ovaldo Bean - floresta
+
+# Parte 1 Episodio 09 - cena na igreja
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Zog 0 igreja
+Luci Bean 0 igreja
+Bean Dagnar + igreja
+
