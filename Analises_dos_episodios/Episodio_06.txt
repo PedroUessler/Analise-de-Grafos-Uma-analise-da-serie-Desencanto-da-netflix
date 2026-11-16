@@ -1,0 +1,82 @@
+# Parte 1 Episodio 6 - Cena na entrada do Castelo
+# Formato: personagem1 personagem2 sinal ambiente
+Ovaldo Zog 0 entradaDoCastelo
+Zog Derek 0 entradaDoCastelo
+
+# Parte 1 Episodio 6 - Cena na taverna
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Luci + Taverna
+Elfo Luci + Taverna
+Bean Elfo 0 taverna
+
+# Parte 1 Episodio 6 - Cena no quarto da Bean
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Luci 0 castelo
+Zog Bean + quartoDaBean
+
+# Parte 1 Episodio 6 - Cena no quarto do Zog
+# Formato: personagem1 personagem2 sinal ambiente
+Oona Zog + quartoDoZog
+Derek Zog 0 quartoDoZog
+Ovaldo Zog + quartoDoZog
+
+# Parte 1 Episodio 6 - Cena no barco
+# Formato: personagem1 personagem2 sinal ambiente
+Luci Bean 0 barco
+Elfo Luci 0 barco
+Elfo Bean 0 barco
+
+# Parte 1 Episodio 6 - Entrada do reino de dunkmire
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Oona 0 barco
+Zog Bean 0 entradaDoReino
+
+# Parte 1 Episodio 6 - Cena no teatro de Dunkmire
+# Formato: personagem1 personagem2 sinal ambiente
+Zog Bean + teatro
+
+# Parte 1 Episodio 6 - Cena no restaurante
+# Formato: personagem1 personagem2 sinal ambiente
+Luci Bean - restaurante
+
+# Parte 1 Episodio 6 - Cena no salao
+# Formato: personagem1 personagem2 sinal ambiente
+Zog Bean - salaoDeDunkmire
+Elfo Luci - salaoDeDunkmire
+Derek Zog 0 salaoDeDunkmire
+
+# Parte 1 Episodio 6 - Entrada do reino de dunkmire
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Zog - entradaDoReino
+Derek Oona 0 entradaDoReino
+
+# Parte 1 Episodio 6 - Cena no pântano de Dunkmire
+# Formato: personagem1 personagem2 sinal ambiente
+Derek Zog 0 pantano
+Luci Elfo - pântano
+Bean Elfo - pântano
+Bean Luci - pântano
+
+# Parte 1 Episodio 6 - Cena na casa do pântano de Dunkmire
+# Formato: personagem1 personagem2 sinal ambiente
+Zog Derek 0 casaDoPantano
+
+# Parte 1 Episodio 6 - Cena no pântano de Dunkmire
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Zog + pântano
+Bean Derek + pântano
+Bean luci + pântano
+Bean Elfo + pantano
+
+# Parte 1 Episodio 6 - Cena nos alredores da aldeia
+# Formato: personagem1 personagem2 sinal ambiente
+Luci Elfo + alredoresDaAldeia
+Bean Zog + alredoresDaAldeia
+Zog Derek + alredoresDaAldeia
+
+
+
+
+
+
+

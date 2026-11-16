@@ -1,0 +1,115 @@
+# Parte 1 Episodio 3 - cena na aldeia e alredores
+# formato: personagem1 personagem2 sinal ambiente
+Bean Luci + aldeia
+Elfo Bean 0 alredoresDaAldeia
+
+#Parte 1 Episodio 3 - cena no portão do castelo
+# formato: personagem1 personagem2 sinal ambiente
+Bean Luci 0 portaoDoCastelo
+Bean Elfo 0 portaoDoCastelo
+
+#Parte 1 Episodio 3 - cena na cozinha
+# formato: personagem1 personagem2 sinal ambiente
+Bean Luci 0 cozinha
+Bean Elfo 0 cozinha
+Zog ovaldo 0 cozinha
+
+#Parte 1 Episodio 3 - cena nos corredores
+# formato: personagem1 personagem2 sinal ambiente
+Zog ovaldo 0 corredor
+Zog Oona - corredor
+
+#Parte 1 Episodio 3 - cena no quarto da Bean
+# formato: personagem1 personagem2 sinal ambiente
+Bean Luci + quartoDaBean
+
+#Parte 1 Episodio 3 - cena no banheiro
+# formato: personagem1 personagem2 sinal ambiente
+Bean Luci + banheiro
+Elfo Luci 0 banheiro
+
+#Parte 1 Episodio 3 - cena no quarto da Bean
+# formato: personagem1 personagem2 sinal ambiente
+Bean Luci + quartoDaBean
+Bean Elfo + quartoDaBean
+
+#Parte 1 Episodio 3 - cena na aldeia
+# formato: personagem1 personagem2 sinal ambiente
+Bean Elfo 0 aldeia
+Bean Luci 0 aldeia
+Elfo Luci + aldeia
+
+#Parte 1 Episodio 3 - Cena na Igreja
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Luci 0 cripta
+
+#Parte 1 Episodio 3 - Cena na sala do trono
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Zog - salaDoTrono
+Elfo Zog + salaDoTrono
+
+#Parte 1 Episodio 3 - cena no quarto da Bean
+# formato: personagem1 personagem2 sinal ambiente
+Bean Luci 0 quartoDaBean
+
+#Parte 1 Episodio 3 - cena na sala de reuniões
+# formato: personagem1 personagem2 sinal ambiente
+Zog Bruxélio + salaDeReuniões
+Zog Ovaldo 0 salaDeReuniões
+
+#Parte 1 Episodio 3 - Cena no laboratório do Bruxélio
+# Formato: personagem1 personagem2 sinal ambiente
+Zog Bean - laboratório
+Bruxelio Bean - laboratório
+Bean Elfo 0 laboratório
+
+#Parte 1 Episodio 3 - Cena na sala do trono
+# Formato: personagem1 personagem2 sinal ambiente
+Zog Bruxelio 0 salaDoTrono
+Ovaldo Zog 0 salaDoTrono
+
+#Parte 1 Episodio 3 - Cena na entrada do castelo
+# Formato: personagem1 personagem2 sinal ambiente
+jo zog - entradaDoCastelo
+Jo Ovaldo - entradaDoCastelo
+jo Bruxelio - entradaDoCastelo
+Jo Oona - entradaDoCastelo
+ 
+#Parte 1 Episodio 3 - cena no quarto da Bean
+# formato: personagem1 personagem2 sinal ambiente
+Luci Jo - quartoDaBean
+Bean Luci + quartoDaBean
+Bean Jo 0 quartoDaBean
+
+#Parte 1 Episodio 3 - cena no jardim
+# formato: personagem1 personagem2 sinal ambiente
+Bean Elfo + jardim
+Bean Zog 0 jardim
+Ovaldo Bean 0 jardim
+
+#Parte 1 Episodio 3 - cena na aldeia
+# formato: personagem1 personagem2 sinal ambiente
+Bean Elfo 0 aldeia
+
+#Parte 1 Episodio 3 - cena na floresta
+# formato: personagem1 personagem2 sinal ambiente
+Bean Elfo + floresta
+
+#Parte 1 Episodio 3 - cena no vulcão
+# formato: personagem1 personagem2 sinal ambiente
+Jo Luci - vulcão
+Bean Luci + vulcão
+Jo Bean - vulcão
+Elfo Bean + vulcão
+Jo Elfo - vulcão
+Elfo Jo + vulcão
+
+
+
+
+
+
+
+
+
+

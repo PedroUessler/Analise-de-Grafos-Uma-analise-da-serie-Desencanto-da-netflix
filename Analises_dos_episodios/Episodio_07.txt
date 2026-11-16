@@ -1,0 +1,88 @@
+# Parte 1 Episodio 6 - Cena na cova da peste
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Elfo + covaDaPeste
+Bean Luci + covaDaPeste
+Luci Elfo + covaDaPeste
+
+# Parte 1 Episodio 6 - Cena na aldeia
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Elfo 0 aldeia
+
+# Parte 1 Episodio 6 - Cena na casa de ectasy
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Bean + casaDeEctasy
+Elfo Luci + casaDeEctasy
+
+# Parte 1 Episodio 6 - Cena nos corredores do Castelo
+# Formato: personagem1 personagem2 sinal ambiente
+Luci Bean 0 castelo
+
+# Parte 1 Episodio 6 - Cena na entrada do castelo
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Elfo + entradaDoCastelo
+Luci Elfo 0 entradaDoCastelo
+Zog Bean 0 entradaDoCastelo
+
+# Parte 1 Episodio 6 - Cena na caverna abaixo do castelo
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Tess 0 cavernaDeQueijos
+
+# Parte 1 Episodio 6 - Cena na sala de cristal
+# Formato: personagem1 personagem2 sinal ambiente
+Merquimio Luci + salaDoCristal
+
+# Parte 1 Episodio 6 - Cena na caverna abaixo do castelo
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Elfo 0 cavernaDeQueijos
+
+# Parte 1 Episodio 6 - Cena na Aldeia
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Tess + aldeia
+
+# Parte 1 Episodio 6 - Cena no salao de Festa
+# Formato: personagem1 personagem2 sinal ambiente
+Luci Merquimio + salaoDeFesta
+
+# Parte 1 Episodio 6 - Cena na sala de cristal
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Luci + salaDoCristal
+
+# Parte 1 Episodio 6 - Cena no quarto da Bean
+# Formato: personagem1 personagem2 sinal ambiente
+Tess Bean + quartoDaBean
+Elfo Tess + quartoDaBean
+
+# Parte 1 Episodio 6 - Cena no salao de Festa
+# Formato: personagem1 personagem2 sinal ambiente
+Luci Merquimio - salaoDeFesta
+Tess Benta 0 salaoDeFesta
+Elfo Tess 0 salaoDeFesta
+Zog Tess - salaoDeFesta
+Bruxerio Tess - salaoDeFesta
+
+# Parte 1 Episodio 6 - Cena na aldeia
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Tess + aldeia
+Elfo Tess - aldeia
+
+# Parte 1 Episodio 6 - Cena na floresta
+# Formato: personagem1 personagem2 sinal ambiente
+Merquimio Tess - floresta
+
+# Parte 1 Episodio 6 - Cena na aldeia
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Elfo + aldeia
+
+
+
+
+
+
+
+
+
+
+
+
+
+

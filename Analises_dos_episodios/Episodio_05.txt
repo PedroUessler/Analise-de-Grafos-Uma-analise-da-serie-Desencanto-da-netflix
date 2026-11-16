@@ -1,0 +1,78 @@
+# Parte 1 Episodio 5 - Cena no monastério
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Luci 0 monastério
+
+# Parte 1 Episodio 5 - Cena na entrada do castelo
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Zog - entradaDoCastelo
+
+# Parte 1 Episodio 5 - Cena na aldeia
+# Formato: personagem1 personagem2 sinal ambiente
+Luci Bean 0 aldeia
+Benta Bean + aldeia
+
+# Parte 1 Episodio 5 - Cena na casa da benta
+# Formato: personagem1 personagem2 sinal ambiente
+Benta Bean + casaDaBenta
+Benta Elfo + casaDaBenta
+
+# Parte 1 Episodio 5 - Cena na aldeia
+# Formato: personagem1 personagem2 sinal ambiente
+Luci Bean 0 aldeia
+
+# Parte 1 Episodio 5 - Cena na casa da benta
+# Formato: personagem1 personagem2 sinal ambiente
+Stan Bean + casaDaBenta
+
+# Parte 1 Episodio 5 - Cena na sala de tortura
+# Formato: personagem1 personagem2 sinal ambiente
+Stan Bean 0 prisão
+
+# Parte 1 Episodio 5 - Cena na casa da benta
+# Formato: personagem1 personagem2 sinal ambiente
+Benta Elfo - casaDaBenta
+
+# Parte 1 Episodio 5 - Cena na sala de tortura
+# Formato: personagem1 personagem2 sinal ambiente
+Stan Bean 0 prisão
+
+# Parte 1 Episodio 5 - Cena na casa da benta
+# Formato: personagem1 personagem2 sinal ambiente
+Benta Elfo - casaDaBenta
+
+# Parte 1 Episodio 5 - Cena na praça
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Bruxa + praça
+Stan Bean - praça
+
+# Parte 1 Episodio 5 - Cena na floresta
+# Formato: personagem1 personagem2 sinal ambiente
+Luci Bean 0 floresta
+
+# Parte 1 Episodio 5 - Cena na casa da bruxa
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Joao - casaDaBruxa
+Elfo Maria - casaDaBruxa
+Joao Maria + casaDaBruxa
+Bean Joao - casaDaBruxa
+Bean Maria - casaDaBruxa
+Luci Elfo + casaDaBruxa
+
+# Parte 1 Episodio 5 - Cena no porão da casa da bruxa
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Joao - casaDaBruxa
+Bean Maria - casaDaBruxa
+Elfo Bean + casaDaBruxa
+Luci Bean 0 casaDaBruxa
+
+# Parte 1 Episodio 5 - Cena na praça
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Bruxa + praça
+Zog Bean + praça
+
+
+
+
+
+
+

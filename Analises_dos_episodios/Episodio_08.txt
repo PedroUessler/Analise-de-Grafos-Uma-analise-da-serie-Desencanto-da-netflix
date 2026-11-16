@@ -1,0 +1,94 @@
+# Parte 1 Episodio 8 - cena na igreja
+# Formato: personagem1 personagem2 sinal ambiente
+Zog Dagnar 0 igreja
+
+# Parte 1 Episodio 8 - cena no laboratorio
+# Formato: personagem1 personagem2 sinal ambiente
+Bruxerio Zog - laboratório
+
+# Parte 1 Episodio 8 - cena na aldeia
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Bean 0 aldeia
+
+# Parte 1 Episodio 8 - cena no escritório do ovaldo
+# Formato: personagem1 personagem2 sinal ambiente
+Ovaldo Bruxerio + escritório
+
+# Parte 1 Episodio 8 - cena na casa da bruxa
+# Formato: personagem1 personagem2 sinal ambiente
+Ovaldo Bruxerio + casaDaBruxa
+
+# Parte 1 Episodio 8 - cena na aldeia
+# Formato: personagem1 personagem2 sinal ambiente
+Jo Elfo - aldeia
+Bean Elfo 0 aldeia
+
+# Parte 1 Episodio 8 - cena na sala do trono
+# Formato: personagem1 personagem2 sinal ambiente
+Ovaldo Zog 0 salaDoTrono
+Bruxerio Zog 0 salaDoTrono
+
+# Parte 1 Episodio 8 - cena na floresta
+# Formato: personagem1 personagem2 sinal ambiente
+Bruxerio Bean 0 floresta
+
+# Parte 1 Episodio 8 - cena na casa nova da Bruxa
+# Formato: personagem1 personagem2 sinal ambiente
+Bruxerio Bruxa 0 casaNovaDaBruxa
+
+# Parte 1 Episodio 8 - cena na casquinha do diabo
+# Formato: personagem1 personagem2 sinal ambiente
+Malfo Bruxerio + casquinhaDoDiabo
+Malfo Bean + casquinhaDoDiabo
+Malfo Luci - casquinhaDoDiabo
+
+# Parte 1 Episodio 8 - cena na beira do mundo
+# Formato: personagem1 personagem2 sinal ambiente
+Grifo Bean + beiraDoMundo
+Grifo Bruxerio + beiraDoMundo
+Grifo Luci + beiraDoMundo
+Jo Bean - beiraDoMundo
+
+# Parte 1 Episodio 8 - cena na floresta
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Jo - floresta
+Luci Jo 0 floresta
+
+# Parte 1 Episodio 8 - cena na navio
+# Formato: personagem1 personagem2 sinal ambiente
+Elfo Bean + navio
+
+# Parte 1 Episodio 8 - cena no deserto
+# Formato: personagem1 personagem2 sinal ambiente
+Jo Bean 0 deserto
+Jo Elfo 0 deserto
+
+# Parte 1 Episodio 8 - cena na cidade perdida de cremorrah
+# Formato: personagem1 personagem2 sinal ambiente
+Jo Bean - cidadePerdida
+Bean Luci + cidadePerdida
+Elfo Bean + cidadePerdida
+Jo Elfo - cidadePerdida
+
+# Parte 1 Episodio 8 - cena no deserto
+# Formato: personagem1 personagem2 sinal ambiente
+Bean Grifo + deserto
+Elfo Grifo + deserto
+Luci Grifo + deserto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
